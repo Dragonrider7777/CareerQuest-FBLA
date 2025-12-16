@@ -1,0 +1,48 @@
+Step 1: Define Concept & Design
+    Create a "blueprint" that can always be looked back to
+    - Define the hub world (Where user can pick what career they want to look at)
+    - Choose 2-3 career mini-worlds to start (Doctor, Project Manager, Teacher) and describe scenarios for each world
+    - Design skill-based challenges UNIQUE to each profession
+    - ENSURE EACH CAREER TEACHES A REAL SKILL
+    - Map the game flow: hub -> career world -> challenge -> reward -> hub or quit
+
+Step 2: Visual & UX Planning
+    - Pick a consistent art style (Probably something simple like cartoon)
+    - Create or find UI mockups that will STAY consistent throughout game
+        ex. Menus, buttons, popups
+    - Plan controls (Keyboard and mouse)
+    - Ensure easy readibility with clear labels and instructions
+
+Step 3: The Technical Setup
+    - Developing in Unity and making scripts through VS Code
+    - Setup folder structure in an organized way and include notes in folder
+    - Build basic prototype consisting of a hub world and one career mini-world
+    - Use version control and create GitHub repository
+
+Step 4: Deployment & Iteration
+    - Once initial bugs are sorted out, add additional career worlds
+    - Add smooth transitions between menus or worlds
+    - Implement an exit system (Maybe save if have time?)
+    - Playtest each world
+    - optimize, optimize, optimize
+    - Refer back to rubric
+
+Step 5: Create Documentation
+    - Write design log / changelog
+    - Document tools & languages used (Hopefully we did this on the way)
+    - Add comments in code that actually mean something(Again, hopefully we did this on the way)
+    - Credit ALL assets / libraries
+
+Step 6: Educational Value
+    - AGAIN, ENSURE EACH CAREER TEACHES A REAL SKILL
+    - Maybe add a summary of skills learned
+    - Make sure everything ties back to FBLA principles (ethics, leadership, problem-solving)
+
+Step 7: Make Presentation
+    - Create slides explaining concept, design, and educational value 
+    - Write demo script
+    - Practice professional delivery with friends and parents
+    - Prepare Q&A answers so we are not completely taken off-guard
+
+REMEMBER!!!!
+STICK TO THIS PLEASE!

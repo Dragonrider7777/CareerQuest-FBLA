@@ -1,0 +1,13 @@
+Career Hub Description with Logic
+
+Scene is a 2D hub with multiple booths arranged horizontally.
+Each booth represents a different career and contains a character that relates to the respective profession.
+
+By hovering over a booth, a white outline with go over the sprite to differentiate the booth from the others.
+Also, by hovering over a booth, the name of the career will pop up to inform the user
+Similarily, if clicked on, the user perspective will zoom in and a short dialogue with the booth's character will begin.
+The (guide) character will give a short description of the career
+Also, the character willl introduce the career game and explain what the goal is.
+After it will ask if the user wants to play. The user can say yes or no. If no, the camera perspective will go back to the original position so the user can see all the booths
+
+After dialogue is done, a transition will change the scene to the career mini-world
