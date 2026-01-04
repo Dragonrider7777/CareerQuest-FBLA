@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
 
-public class CareerButton : MonoBehaviour
+public class PresetButtonName : MonoBehaviour
 {
     public string buttonName;
     public TextMeshProUGUI label;

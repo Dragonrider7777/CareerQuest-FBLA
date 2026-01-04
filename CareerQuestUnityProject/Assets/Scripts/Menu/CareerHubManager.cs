@@ -14,8 +14,9 @@ public class CareerHubManager : MonoBehaviour
         
     }
 
-    public void SelectCareer (string careerName)
+    public void SelectCareer(string careerName)
     {
+        GameManager.Instance.selectedCareer = careerName;
         Debug.Log("Career selected: " + careerName);
     }
 }

@@ -1,0 +1,25 @@
+LEARNING OBJECTIVES
+- Time Management
+- Prioritization
+- Decision-Making
+- Tradeoffs
+
+CORE GAMEPLAY LOOP
+Each round = 1 workday
+During a round:
+- tasks appear
+- Player chooses a task to carry out
+- Continues before time runs out
+- Continues until end of day 10
+
+PLAYER RESOURCES
+Time: Limited per day; forces prioritization
+Stress: 
+Reputation: Score; long-term progress
+
+TASK
+Each task has:
+- Time Cost (1-3 hours (displayed as units))
+- Stress Impact (+ or -)
+- Priority Level (Low / Medium / High)
+- What the task is
